@@ -1,0 +1,106 @@
+
+header{
+    height: 64px;  
+    background: #FF5252;
+}
+
+.logo{  
+    width: 200px;  
+    padding: 20px;
+}
+
+nav ul{
+    float: right;
+    margin-right: 20px;
+    padding: 20px;
+}
+
+nav ul li{
+    display: inline-block;
+}
+
+nav ul li a{
+    padding: 10px;
+    color: white;
+    text-transform: uppercase;
+}
+
+.splash{
+    background:url(../images/fondo.gif)center center fixed;
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    
+}
+
+.splash h1{
+    
+    margin-top: 10px; 
+    color: whitesmoke;
+    display: inline-block;
+    padding-top: 10px;
+    font-size: 40px;
+
+}
+
+.splash h5{
+    
+    margin-top: 10px; 
+    color:gray;
+    display: inline-block;
+    padding-top: 10px;
+    font-size: 15px;
+
+}
+
+
+
+.text{
+    text-align: right;
+    margin-top: 23vh;
+}
+
+.center{
+    text-align: center;
+}
+
+.espacio{
+   padding-top: 100px;
+   padding-bottom: 100px; 
+}
+
+.content{
+    padding: 20px;
+}
+
+.card{
+    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 1px 5px 0 rgba(0, 0, 0, 0.12), 0 3px 1px -2px rgba(0, 0, 0, 0.2);
+
+}
+
+.card .btn{
+    float: right;
+}
+
+#letras{
+    background: #f2f2f2;
+}
+
+i{
+    color: #FF5252;
+}
+
+.pintado{
+    background: grey;
+    padding: 5px;
+    font-size: 30px;
+    color: whitesmoke;    
+}
+
+.frases i{
+    font-size: 70px;
+}
+
+.frases h2{
+    padding: 25px;
+}
